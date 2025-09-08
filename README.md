@@ -1,6 +1,6 @@
 # VS Marketplace: Download VSIX Button
 
-[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-View%20Script-blue)](https://greasyfork.org/scripts/your-script-id)
+[![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-View%20Script-blue)](https://greasyfork.org/en/scripts/548857-vs-marketplace-download-vsix)
 
 This Tampermonkey/Greasemonkey userscript adds a **"Download VSIX"** button right next to the official green **Install** button on [Visual Studio Marketplace](https://marketplace.visualstudio.com/) extension pages.
 
