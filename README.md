@@ -27,11 +27,7 @@ For the Python extension at:
 `https://marketplace.visualstudio.com/items?itemName=ms-python.python`
 
 The script generates a download link to:  
-```
-
-[https://marketplace.visualstudio.com/\_apis/public/gallery/publishers/ms-python/vsextensions/python/latest/vspackage](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/latest/vspackage)
-
-```
+[https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/latest/vspackage](https://marketplace.visualstudio.com/_apis/public/gallery/publishers/ms-python/vsextensions/python/latest/vspackage)
 
 ---
 
@@ -42,7 +38,7 @@ The script generates a download link to:
    - [Violentmonkey](https://violentmonkey.github.io/)
    - [Greasemonkey](https://www.greasespot.net/) (not as well tested)
 
-2. Install this script from [Greasy Fork](https://greasyfork.org/scripts/your-script-id).
+2. Install this script from [Greasy Fork](https://greasyfork.org/en/scripts/548857-vs-marketplace-download-vsix).
 
 3. Visit any Visual Studio Marketplace extension page — the **Download VSIX** button will appear right next to Install.
 
@@ -60,6 +56,13 @@ The script generates a download link to:
 - Constructs a `latest/vspackage` download link for that extension.
 - Clones the existing Install button’s HTML/CSS, updates its text and `href`, and inserts it beside Install.
 - Keeps the button injected on all SPA navigations and re-renders.
+
+---
+
+## 🛠 Planned Features
+
+- **Download old versions**:  
+  Add an option to select and download previous releases of an extension by parsing the Version History tab and generating VSIX links for each version.
 
 ---
 
