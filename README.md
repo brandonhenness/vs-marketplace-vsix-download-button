@@ -1,16 +1,16 @@
-![Download VSIX Button Screenshot](./vsix-download-button-screenshot.png)
-
 # VS Marketplace: Download VSIX Button
 
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-View%20Script-blue)](https://greasyfork.org/en/scripts/548857-vs-marketplace-download-vsix)
 
-This Tampermonkey/Greasemonkey userscript adds a **"Download VSIX"** button right next to the official green **Install** button on [Visual Studio Marketplace](https://marketplace.visualstudio.com/) extension pages.
+![Download VSIX Button Screenshot](./vsix-download-button-screenshot.png)
 
-The new button is:
-- **Identical in style** to the Install button (cloned from it, same size, color, and hover effects).
-- Always positioned **right beside** the Install button with a small space in between.
-- Linked directly to the **latest VSIX package** for offline installation.
-- **Persistent** — if the Marketplace uses SPA navigation or re-renders the page, the button is re-injected automatically.
+---
+
+## Why I Made This Script
+
+Microsoft removed the built-in **Download VSIX** button from the Visual Studio Marketplace.  
+This decision has made it more difficult for developers in **environments without direct internet access** to install extensions.  
+This script restores that functionality in a seamless way.
 
 ---
 
