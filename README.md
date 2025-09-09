@@ -1,3 +1,5 @@
+![Download VSIX Button Screenshot](./vsix-download-button-screenshot.png)
+
 # VS Marketplace: Download VSIX Button
 
 [![Greasy Fork](https://img.shields.io/badge/Greasy%20Fork-View%20Script-blue)](https://greasyfork.org/en/scripts/548857-vs-marketplace-download-vsix)
@@ -41,12 +43,6 @@ The script generates a download link to:
 2. Install this script from [Greasy Fork](https://greasyfork.org/en/scripts/548857-vs-marketplace-download-vsix).
 
 3. Visit any Visual Studio Marketplace extension page — the **Download VSIX** button will appear right next to Install.
-
----
-
-## 🖼 Screenshot
-
-![Download VSIX Button Screenshot](./vsix-download-button-screenshot.png)
 
 ---
 
