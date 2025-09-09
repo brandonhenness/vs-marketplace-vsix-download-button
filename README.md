@@ -6,7 +6,7 @@
 
 ---
 
-## Why I Made This Script
+## 💡 Why I Made This Script
 
 Microsoft removed the built-in **Download VSIX** button from the Visual Studio Marketplace.  
 This decision has made it more difficult for developers in **environments without direct internet access** to install extensions.  
