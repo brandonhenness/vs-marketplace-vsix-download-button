@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         VS Marketplace: Download VSIX
-// @namespace    https://brandonhenness.dev/tm/vsix-download
+// @namespace    https://github.com/brandonhenness/vs-marketplace-vsix-download-button
 // @version      1.8.2
 // @description  Adds a "Download VSIX" button next to Install, copying its style exactly.
 // @match        *://marketplace.visualstudio.com/*
@@ -78,4 +78,5 @@
     ensureButton();
   }
 })();
+
 
